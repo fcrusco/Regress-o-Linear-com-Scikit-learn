@@ -22,8 +22,6 @@ Matplotlib (para visualização gráfica)<br>
 ▶️ Como Executar<br>
 Clone o repositório<br>
 Instale as dependências:<br>
-pip install -r requirements.txt<br>
-(Se não tiver o arquivo requirements.txt, instale manualmente):<br>
 pip install scikit-learn matplotlib numpy<br>
 python main.py<br>
 <br>
@@ -48,6 +46,7 @@ print(f"Se estudar 6 horas, previsão = {previsao[0]:.2f}")<br>
 plt.scatter(X, y, color="blue")<br>
 plt.plot(X, modelo.predict(X), color="red")<br>
 plt.show()<br>
+<br>
 📷 Exemplo de Saída Gráfica<br>
 O código gera um gráfico com os pontos reais (azuis) e a linha de regressão (vermelha), mostrando como o modelo ajustou os dados.<br>
 <br>
