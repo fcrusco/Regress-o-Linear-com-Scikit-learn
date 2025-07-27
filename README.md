@@ -1,6 +1,6 @@
 🐍 Machine Learning com Scikit-learn – Regressão Linear
 
-<img width="795" height="679" alt="image" src="[https://github.com/user-attachments/assets/99ac67f4-a59d-4d72-bd9a-d559c77f3315](https://github.com/user-attachments/assets/99ac67f4-a59d-4d72-bd9a-d559c77f3315)" /\>
+<img width="795" height="679" alt="image" src="https://github.com/user-attachments/assets/d4c16f3a-06ea-4cdd-87bc-ce4177b4b539" />
 
 
 🐍 Machine Learning com Scikit-learn – Regressão Linear
