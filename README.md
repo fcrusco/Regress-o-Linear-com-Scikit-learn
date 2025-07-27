@@ -2,7 +2,7 @@
 
 <img width="795" height="679" alt="image" src="https://github.com/user-attachments/assets/d4c16f3a-06ea-4cdd-87bc-ce4177b4b539" />
 <br>
-🐍 Machine Learning com Scikit-learn – Regressão Linear<br>
+<br>
 Este projeto demonstra um exemplo simples de Machine Learning utilizando a biblioteca Scikit-learn, aplicando Regressão Linear para prever valores com base em dados numéricos.<br>
 <br>
 ✅ Objetivo do Projeto<br>
